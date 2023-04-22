@@ -3,7 +3,7 @@
 <p>
 La page ci-dessus présente un formulaire d'authentification (afin de sécuriser l'application), 
 ce dernier donne l'accès à des fonctionnalités selon le role (administrateur ou utilisateur ordinaire).<br>
-La fontionnalité Remember me permet de memoriser les informations.
+La fontionnalité Remember me permet de mémoriser les informations, et cependant faciliter la connexion pour une prochaine fois.
 </p>
 <img src="Captures/foncAdmin.png">
 <p>
